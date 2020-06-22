@@ -19,7 +19,7 @@ Import this project into the IDE of your choice and "Run" the "EntryPoint" class
 This project is licensed under the MIT License - https://opensource.org/licenses/MIT
 
 ## Acknowledgments
-* geeksforgeeks.com (always a great resource!)
+* [geeksforgeeks.com](geeksforgeeks.com) (always a great resource!)
 * Oracle Java docs
 
 
