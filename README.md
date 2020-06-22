@@ -1,7 +1,7 @@
 # A Basic Blackjack Game in Java
 
 ## Deployment
-Import this project into IntelliJ and right click and "Run" on the "EntryPoint" class.
+Import this project into the IDE of your choice and "Run" the "EntryPoint" class.
 
 ## Built With
 * Java 8
