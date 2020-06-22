@@ -5,7 +5,10 @@ Import this project into the IDE of your choice and "Run" the "EntryPoint" class
 
 ## Built With
 * Java 8
-* IntelliJ IDE
+* IntelliJ 
+
+## Video demo
+[Step-by-step video tutorial here](https://www.youtube.com/watch?v=XKDApWwIfnc)
 
 ## Authors
 
